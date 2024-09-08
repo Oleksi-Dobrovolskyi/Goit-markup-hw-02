@@ -1,1 +1,41 @@
 
+ul, ol{list-style-type: none;}
+a{color: inherit; text-decoration: none;}
+
+
+
+.logo.web{color:#4d5ae5;}
+.logo.studio{color:#2e2f42;}
+.menu-link{color: #2e2f42;}
+
+
+address{color:#434455;}
+
+
+
+.hero-section{background-color: #2e2f42;}
+.main-title{color:#ffffff;}
+
+
+
+
+.button{color:#4d5ae5;}
+button{cursor: pointer;}
+.vectors-title{color:#2e2f42;}
+.vectors-text{color:#434455;}
+
+
+
+.team{color:#2e2f42;}
+.teammates{color:#2e2f42;}
+.team-text{color:#434455;}
+
+
+.portfolio .portfilio-subtitle{color:#2e2f42;}
+
+.page-footer{background-color: #2e2f42;}
+
+.footer-text{color: #f4f4fd;}
+
+
+
