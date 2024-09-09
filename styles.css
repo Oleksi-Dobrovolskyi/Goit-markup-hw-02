@@ -1,4 +1,4 @@
-body {
+body{
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
@@ -13,14 +13,14 @@ span{color:#2e2f42;}
 .menu-link{color: #2e2f42;}
 .logo-one.web{font-family: "Raleway", sans-serif;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 18;
     line-height: 117%;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;}
     .logo-two{font-family: "Raleway", sans-serif;
         font-weight: 700;
-        font-size: 18px;
+        font-size: 18;
         line-height: 117%;
         letter-spacing: 0.03em;
         text-transform: uppercase;
@@ -37,7 +37,7 @@ address{font-style: normal;}
 .page-header{
     font-family: "Roboto", sans-serif;
         font-weight: 700;
-        font-size: 56px;
+        font-size: 56;
         line-height: 107%;
         letter-spacing: 0.02em;
         text-align: center;
@@ -45,7 +45,7 @@ address{font-style: normal;}
 
 .main-title{font-family: "Roboto", sans-serif;
     font-weight: 700;
-    font-size: 56px;
+    font-size: 56;
     line-height: 107%;
     letter-spacing: 0.02em;
     text-align: center;
@@ -54,7 +54,7 @@ address{font-style: normal;}
 button{cursor: pointer;}
 button{font-family: "Roboto", sans-serif;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 16;
     line-height: 150%;
     letter-spacing: 0.04em;
     color: #fff;}
@@ -67,13 +67,13 @@ button{font-family: "Roboto", sans-serif;
 .vectors-text{color:#434455;}
 .vectors-title{font-family: "Roboto", sans-serif;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 20;
     line-height: 120%;
     letter-spacing: 0.02em;
     color: #2e2f42;}
     .vectors-text{font-family: "Roboto", sans-serif;
         font-weight: 400;
-        font-size: 16px;
+        font-size: 16;
         line-height: 150%;
         letter-spacing: 0.02em;
         color: #434455;}
@@ -87,7 +87,7 @@ button{font-family: "Roboto", sans-serif;
 .teammates{color:#2e2f42;}
 .teammates{font-family: "Roboto", sans-serif;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 20;
     line-height: 120%;
     letter-spacing: 0.02em;
     text-align: center;
@@ -95,14 +95,14 @@ button{font-family: "Roboto", sans-serif;
 .team-text{color:#434455;}
 .team-text{font-family: "Roboto", sans-serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 16;
     line-height: 150%;
     letter-spacing: 0.02em;
     text-align: center;
     color: #434455;}
 .team{font-family: "Roboto", sans-serif;
     font-weight: 700;
-    font-size: 36px;
+    font-size: 36;
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
@@ -113,7 +113,7 @@ button{font-family: "Roboto", sans-serif;
 .portfolio .portfilio-subtitle{color:#2e2f42;}
 .portfolio{font-family: "Roboto", sans-serif;
     font-weight: 700;
-    font-size: 36px;
+    font-size: 36;
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
@@ -122,13 +122,13 @@ button{font-family: "Roboto", sans-serif;
     .portfolio{text-align: center;}
 .portfilio-subtitle{font-family: "Roboto", sans-serif;
     font-weight: 500;
-    font-size: 20px;
+    font-size: 20;
     line-height: 120%;
     letter-spacing: 0.02em;
     color: #2e2f42;}
 .portfolio-text{font-family: "Roboto", sans-serif;
     font-weight: 400;
-    font-size: 16px;
+    font-size: 16;
     line-height: 150%;
     letter-spacing: 0.02em;
     color: #434455;}
