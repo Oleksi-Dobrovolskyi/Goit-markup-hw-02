@@ -103,7 +103,8 @@ address {
     color: #4d5ae5;
 }
 
-.order-service:hover {
+#order-service:hover,
+.order-service:focus .order-service:hover {
     background-color: #404BBF;
 }
 
@@ -285,6 +286,10 @@ button {
 
 .page-footer {
     background-color: #2e2f42;
+}
+
+.logo-span {
+    color: #f4f4fd;
 }
 
 .footer-text {
