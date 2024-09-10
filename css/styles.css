@@ -19,11 +19,11 @@ a {
     color: #2e2f42;
 }
 
-.logo-one {
+.logo {
     color: #4d5ae5;
 }
 
-.logo-two {
+.logo-span {
     color: #2e2f42;
 }
 
@@ -31,7 +31,7 @@ a {
     color: #2e2f42;
 }
 
-.logo-one {
+.logo {
     font-family: "Raleway", sans-serif;
     font-weight: 500;
     font-size: 18px;
@@ -41,7 +41,7 @@ a {
     color: #4d5ae5;
 }
 
-.logo-two span {
+.logo-span {
     font-family: "Raleway", sans-serif;
     font-weight: 500;
     font-size: 18px;
@@ -91,19 +91,20 @@ address {
     color: #fff;
 }
 
-.button {
+.order-service {
     color: #4d5ae5;
 }
 
-.button {
+.order-service {
     background-color: #FFFFFF;
 }
 
 button {
     cursor: pointer;
+
 }
 
-.button {
+.order-service {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16;
