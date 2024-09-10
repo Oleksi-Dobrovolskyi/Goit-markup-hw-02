@@ -75,6 +75,14 @@ a {
     color: #404bbf
 }
 
+.menu-item {
+    line-height: 1, 5;
+}
+
+.menu-item {
+    color: #434455;
+}
+
 .menu-item:focus {
     color: #404BBF;
 }
@@ -224,6 +232,14 @@ button {
     text-align: center;
     color: #2e2f42;
     background-color: #FFFFFF;
+}
+
+.team,
+.team-list,
+.team-list-item {
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .teammates {
