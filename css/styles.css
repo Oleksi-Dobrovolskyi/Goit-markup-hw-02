@@ -15,6 +15,11 @@ a {
 }
 
 
+
+
+
+
+
 .span {
     color: #2e2f42;
 }
@@ -60,8 +65,21 @@ a {
     color: #2e2f42;
 }
 
-.contacts-link:hover .contacts-link :focus .address {
-    color: #434455;
+.menu-item {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.contacts-link:hover {
+    color: #404bbf;
+}
+
+.contacts-link:focus {
+    color: #404bbf
 }
 
 address {
@@ -103,8 +121,8 @@ address {
     color: #4d5ae5;
 }
 
-#order-service:hover,
-.order-service:focus .order-service:hover {
+.order-service:hover,
+.order-service:focus {
     background-color: #404BBF;
 }
 
